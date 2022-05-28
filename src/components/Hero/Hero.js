@@ -16,7 +16,7 @@ const Hero = (props) => (
         <SectionText>
         I am here to make your websites and help you in your web development tasks.
         </SectionText>
-        <a href="mailto:aarish-rajput27@gmail.com"><Button onClick={props.handleClick}>Email me</Button></a>
+        <a href="mailto:aarish.rajput27@gmail.com"><Button onClick={props.handleClick}>Email me</Button></a>
       </LeftSection>
     </Section>
   </>
